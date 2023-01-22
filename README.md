@@ -2,7 +2,7 @@
 
 To run aplication
 
-## nmp install react react-dom
+## npm install react react-dom
 ## npm start
 
 ## Available Scripts
