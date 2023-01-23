@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To run aplication
+To run application
 
 ## npm install react react-dom
 ## npm start
