@@ -1,3 +1,3 @@
-# Clonar la rama del repositorio que seleccione
+# Clonar el repositorio
 
 ## git clone -b [branch] https://github.com/code-albertt-hdz/react.git [directory]
